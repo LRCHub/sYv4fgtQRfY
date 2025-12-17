@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "departure!",
+  "base_artist": "小野正利",
+  "createdAt": "2025-12-17T11:53:55.106569Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Departure",
+      "artist": "Little Girls",
+      "has_synced": false,
+      "path": "select/01_Departure_Little_Girls.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Departure Lounge",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/02_Departure_Lounge_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blueprint for Departure",
+      "artist": "Bedroom Eyes",
+      "has_synced": false,
+      "path": "select/03_Blueprint_for_Departure_Bedroom_Eyes.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Departure",
+      "artist": "Baths",
+      "has_synced": false,
+      "path": "select/04_Departure_Baths.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Departure",
+      "artist": "Bike For Three!",
+      "has_synced": true,
+      "path": "select/05_The_Departure_Bike_For_Three!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Before Departure",
+      "artist": "PJ Harvey",
+      "has_synced": true,
+      "path": "select/06_Before_Departure_PJ_Harvey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Despair In The Departure Lounge",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/07_Despair_In_The_Departure_Lounge_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "departure!",
+      "artist": "小野 正利",
+      "has_synced": false,
+      "path": "select/pl_01_departure!_小野_正利.txt"
+    }
+  ]
+}
